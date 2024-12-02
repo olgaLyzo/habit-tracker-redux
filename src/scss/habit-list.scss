@@ -1,0 +1,19 @@
+
+	.habit{
+		position: relative;
+		
+	
+		.deleteIcon{
+			position: absolute;
+			top: -9px;
+			left: 707px;
+			width: 15px;
+			height: 15px;
+			&:hover{
+				cursor: pointer;
+				opacity: 0.5;
+			}
+		}
+	}
+
+
